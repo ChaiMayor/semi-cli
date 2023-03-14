@@ -1,0 +1,25 @@
+{
+	"name": "semi-cli",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"semi": "./lib/index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"commander": "^10.0.0",
+		"download-git-repo": "^3.0.2",
+		"figlet": "^1.5.2",
+		"fs-extra": "^11.1.0",
+		"inquirer": "^8.2.5",
+		"ora": "^6.1.2",
+		"release-it": "^15.8.0"
+	}
+}
