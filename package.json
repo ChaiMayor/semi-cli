@@ -1,6 +1,6 @@
 {
-	"name": "semi-cli",
-	"version": "1.0.1-1",
+	"name": "@semi-design-vue/cli",
+	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -21,5 +21,9 @@
 		"inquirer": "^8.2.5",
 		"ora": "^6.1.2",
 		"release-it": "^15.8.0"
+	},
+	"devDependencies": {
+		"@changesets/changelog-github": "^0.4.8",
+		"@changesets/cli": "^2.26.0"
 	}
 }
