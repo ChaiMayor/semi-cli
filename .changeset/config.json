@@ -3,7 +3,7 @@
 	"changelog": [
 		"@changesets/changelog-github",
 		{
-			"repo": "bfehub/vlib-starter"
+			"repo": "ChaiMayor/semi-cli"
 		}
 	],
 	"commit": false,
