@@ -1,5 +1,14 @@
 
 
+## [1.3.0](https://github.com/ChaiMayor/semi-cli/compare/v1.2.2...v1.3.0) (2023-03-16)
+
+
+### Features
+
+* 🎸 add two index.js ([27b75bd](https://github.com/ChaiMayor/semi-cli/commit/27b75bd5db47042235e85d28b4f5cc61134ff56b))
+* add git-cz ([3c1946f](https://github.com/ChaiMayor/semi-cli/commit/3c1946ff76eba1496d5422dc2c94f27fde78e854))
+* add index.js ([07490a6](https://github.com/ChaiMayor/semi-cli/commit/07490a6d662a7bd84c8110b362a61b1fe638fc8c))
+
 ### [1.2.2](https://github.com/ChaiMayor/semi-cli/compare/v1.2.0...v1.2.2) (2023-03-15)
 
 ### [1.2.1](https://github.com/ChaiMayor/semi-cli/compare/v1.2.0...v1.2.1) (2023-03-15)
