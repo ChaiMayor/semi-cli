@@ -4,7 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"publish": "release-it patch"
+		"publish": "release-it patch",
+		"commit": "git-cz"
 	},
 	"repository": {
 		"type": "git",
@@ -22,6 +23,7 @@
 		"download-git-repo": "^3.0.2",
 		"figlet": "^1.5.2",
 		"fs-extra": "^11.1.0",
+		"git-cz": "^4.9.0",
 		"inquirer": "^8.2.5",
 		"ora": "^6.1.2",
 		"release-it": "^15.8.0"

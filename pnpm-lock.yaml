@@ -9,6 +9,7 @@ specifiers:
   download-git-repo: ^3.0.2
   figlet: ^1.5.2
   fs-extra: ^11.1.0
+  git-cz: ^4.9.0
   inquirer: ^8.2.5
   ora: ^6.1.2
   release-it: ^15.8.0
@@ -19,6 +20,7 @@ dependencies:
   download-git-repo: 3.0.2
   figlet: 1.5.2
   fs-extra: 11.1.0
+  git-cz: 4.9.0
   inquirer: 8.2.5
   ora: 6.1.2
   release-it: 15.8.0
@@ -1892,6 +1894,11 @@ packages:
 
   /git-clone/0.1.0:
     resolution: {integrity: sha512-zs9rlfa7HyaJAKG9o+V7C6qfMzyc+tb1IIXdUFcOBcR1U7siKy/uPdauLlrH1mc0vOgUwIv4BF+QxPiiTYz3Rw==}
+    dev: false
+
+  /git-cz/4.9.0:
+    resolution: {integrity: sha512-cSRL8IIOXU7UFLdbziCYqg8f8InwLwqHezkiRHNSph7oZqGv0togId1kMTfKil6gzK0VaSXeVBb4oDl0fQCHiw==}
+    hasBin: true
     dev: false
 
   /git-raw-commits/2.0.11:
