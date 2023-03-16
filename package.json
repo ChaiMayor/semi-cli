@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"publish": "release-it",
+		"publish": "release-it patch",
 		"commit": "git-cz"
 	},
 	"repository": {
